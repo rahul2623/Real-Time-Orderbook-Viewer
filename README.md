@@ -354,5 +354,6 @@ For questions or issues:
 
 ---
 
-**Note**: This application is for educational purposes only and should not be used for actual trading without proper testing and risk management. #   R e a l - T i m e - O r d e r b o o k - V i e w e r  
+**Note**: This application is for educational purposes only and should not be used for actual trading without proper testing and risk management. #   R e a l - T i m e - O r d e r b o o k - V i e w e r 
+ 
  
